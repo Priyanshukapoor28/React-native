@@ -41,3 +41,22 @@ App looks like this
 
 
 ![image](https://user-images.githubusercontent.com/79279569/168048029-107a78ec-c826-49c9-a451-0af21925827c.png)
+
+
+# Assignment 4
+
+Create a mobile Banking App UI. You need to use ScrollView, ActivityIndicator and Modal. You can use FlatList if you want. Read the documentation for this one to understand things. Prefer not to watch a video. If you do get issues in understanding the documentation, ask us. We will help you out. An example is something like this- https://dribbble.com/shots/17409666-Investkan-Investment-Bank-Mobile-App/attachments/12536816?mode=media
+
+You don’t need to make multiple pages but the Home/Dashboard one. Same instructions as before, search for UI on dribble, put link and SS in your Readme.
+
+
+![image](https://user-images.githubusercontent.com/79279569/168062742-e7b37abf-808a-45ca-bd04-29cdd5f9e5c0.png)
+
+![image](https://user-images.githubusercontent.com/79279569/168062941-603de373-a9f6-4334-aac4-6a411269e2ab.png)
+
+![image](https://user-images.githubusercontent.com/79279569/168063024-717ff8ae-bf46-47d0-884a-1430144d9fcb.png)
+
+
+
+
+
