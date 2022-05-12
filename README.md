@@ -1,5 +1,25 @@
 # React-native
 
+
+# Assignment 1
+
+Assignment 1 was mainly just to setup react native in our laptops with the help of https://reactnative.dev/docs/environment-setup .
+
+The pre requisites for react native are java jdk, android studio and node js.
+
+https://nodejs.org/en/download/ for node js.
+
+https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html for java jdk download.
+
+https://developer.android.com/studio for android studio download.
+
+![image](https://user-images.githubusercontent.com/79279569/168050055-b10f6c8f-d315-4a30-8988-2054593b62a2.png)
+
+
+![image](https://user-images.githubusercontent.com/79279569/168050109-969a290c-8c14-4eab-b88d-9d48c7baf5fb.png)
+
+
+
 # Assignment 2
 
 
