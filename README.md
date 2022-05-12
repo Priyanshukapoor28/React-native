@@ -57,6 +57,21 @@ You don’t need to make multiple pages but the Home/Dashboard one. Same instruc
 ![image](https://user-images.githubusercontent.com/79279569/168063024-717ff8ae-bf46-47d0-884a-1430144d9fcb.png)
 
 
+# Assignment 5
+
+Use your old app built in previous assignment and change state management using Context API. OR Build a new application like something shown in the session
+
+Initial Screenshot
+
+
+
+![image](https://user-images.githubusercontent.com/79279569/168063462-e47d6d99-2520-47ab-9e71-cccaad0407aa.png)
+
+Screenshot after incrementing 2 times
+
+
+
+![image](https://user-images.githubusercontent.com/79279569/168063573-19061773-e4d8-48a3-8947-b3bcdf7dfcfc.png)
 
 
 
